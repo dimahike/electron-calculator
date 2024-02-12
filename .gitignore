@@ -1,0 +1,42 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# IDE specific directories
+.vscode/
+*.sublsime-project
+*.sublime-workspace
+
+# JetBrains IDEs
+*.iml
+.idea/
+
+# Optional macOS directory
+.DS_Store
+
+# Optional Windows directory
+Thumbs.db
+
+# Dist directory for the output
+/dist
+
+# Output/built binaries from electron-forge make
+/out
+
+# Environment files
+.env
+
+# Debug log from npm
+npm-debug.log*
+
+# Yarn error logs
+yarn-debug.log*
+yarn-error.log*
+
+# Log files
+*.log
